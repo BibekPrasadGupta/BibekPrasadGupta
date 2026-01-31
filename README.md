@@ -55,11 +55,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BibekPrasadGupta&show_icons=true&theme=tokyonight)
+![Bibek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BibekPrasadGupta&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BibekPrasadGupta&layout=compact&theme=tokyonight)
 
----
+_____
 
 ## 📌 Projects & Learning
 
@@ -72,7 +72,8 @@
 ## 🌐 Connect With Me
 
 * 💼 GitHub: [@BibekPrasadGupta](https://github.com/BibekPrasadGupta)
-* 💼 LinkedIn: [@BibekPrasadGupta](www.linkedin.com/in/bibek-prasad-gupta-942367349)
+* 💼 LinkedIn: [@BibekPrasadGupta](https://www.linkedin.com/in/bibek-prasad-gupta-942367349)
+))
 * 📫 Always open to learning & collaboration
 
 ---
