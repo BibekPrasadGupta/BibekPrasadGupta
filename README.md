@@ -73,7 +73,6 @@ _____
 
 * 💼 GitHub: [@BibekPrasadGupta](https://github.com/BibekPrasadGupta)
 * 💼 LinkedIn: [@BibekPrasadGupta](https://www.linkedin.com/in/bibek-prasad-gupta-942367349)
-))
 * 📫 Always open to learning & collaboration
 
 ---
