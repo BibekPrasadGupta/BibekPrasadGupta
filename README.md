@@ -55,11 +55,7 @@
 
 ## 📊 GitHub Stats
 
-![Bibek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BibekPrasadGupta&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BibekPrasadGupta&layout=compact&theme=tokyonight)
-
-_____
 
 ## 📌 Projects & Learning
 
