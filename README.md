@@ -17,7 +17,6 @@
 
 * 🔹 Strengthening **Data Structures & Algorithms**
 * 🔹 Backend Development with **Python & Java**
-* 🔹 Exploring **Big Data & Data Engineering concepts**
 * 🔹 Building real-world projects
 
 ---
