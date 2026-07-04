@@ -1,76 +1,22 @@
-# 👋 Hi, I'm Bibek Prasad Gupta
+# Hi, I'm Bibek Prasad Gupta 👋
 
-### 🚀 *Turning curiosity into code, one commit at a time.*
+Full-stack developer focused on building practical web applications with Python, Java, and SQL. Currently a 3rd-year CSE student at Parul University, looking for SWE internship opportunities.
 
----
-
-## 👨‍💻 About Me
-
-* 🎓 Student & aspiring **Software / Data Engineer**
-* 💡 Interested in **Backend Development, Data Engineering & Problem Solving**
-* 🌱 Always learning and improving core fundamentals
-* 🔭 I believe in *consistency > motivation*
-
----
-
-## 🧠 Current Focus
-
-* 🔹 Strengthening **Data Structures & Algorithms**
-* 🔹 Backend Development with **Python & Java**
-* 🔹 Building real-world projects
-
----
+## 🚀 Featured Project
+**[ProjectName](link)** — One-line result-oriented description (e.g., "A task management app with JWT auth, PostgreSQL, and a React frontend, deployed on Render")
+[Live Demo](link) · [Source Code](link)
 
 ## 🛠️ Tech Stack
+**Languages:** Python, Java, JavaScript, SQL
+**Backend:** Flask, Django, REST APIs
+**Frontend:** HTML, CSS, JavaScript (React — if learning, mention "learning React")
+**Databases:** PostgreSQL, MySQL, SQLite
+**Tools:** Git, Docker (if learned), Linux, Postman
 
-**Languages**
+## 📌 Currently
+- Building [specific project] to strengthen full-stack skills
+- Practicing DSA daily (Java/Python) — [link to DSA repo]
+- Open to internship opportunities in backend/full-stack roles
 
-* Python 🐍
-* Java ☕
-* C 
-* SQL
-* HTML
-* CSS
-* JavaScript
-
-**Backend & Frameworks**
-
-* Flask
-* Django
-
-**Databases**
-
-* MySQL
-* PostgreSQL
-* SQLITE
-
-**Tools & Platforms**
-
-* Git & GitHub
-* VS Code
-* Linux
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BibekPrasadGupta\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BibekPrasadGupta\&layout=compact\&theme=tokyonight)
-
-
-## 📌 Projects & Learning
-
-* 🔨 Academic & personal projects
-* 🧪 Practice problems (DSA & Algorithms)
-* 📚 Continuous revision of core concepts
-
----
-
-## 🌐 Connect With Me
-
-* 💼 GitHub: [@BibekPrasadGupta](https://github.com/BibekPrasadGupta)
-* 💼 LinkedIn: [@BibekPrasadGupta](https://www.linkedin.com/in/bibek-prasad-gupta-942367349)
-* 📫 Always open to learning & collaboration
-
----
-
-⭐ *If you like my work, consider giving a star!*
+## 📫 Connect
+[LinkedIn](link) · [Portfolio Site](link) · Email
